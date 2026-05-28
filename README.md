@@ -3,6 +3,7 @@
 Clone the repository:
 
 git clone https://github.com/me37uday/MYC_NMD.git
+
 cd MYC_NMD
 
 Open R and restore the environment (first time only):
