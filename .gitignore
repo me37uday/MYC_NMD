@@ -8,3 +8,5 @@
 
 # temp files
 *.tmp
+
+.Rproj.user/
