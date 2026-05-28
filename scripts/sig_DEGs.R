@@ -1,5 +1,6 @@
 library(ggplot2)
 library(tidyverse)
+library(patchwork)
 
 files <- list.files("data/DEGs/",
                     pattern = "\\.csv$",
