@@ -1,6 +1,10 @@
 packages <- c(
   "tidyverse",
-  "ggplot2"
+  "ggplot2",
+  "patchwork",
+  "readr",
+  "dplyr",
+  "tidyr"
 )
 
 installed <- packages %in% installed.packages()
