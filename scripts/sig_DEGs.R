@@ -153,6 +153,6 @@ a <- ggplot(df_wide, aes(x = group)) +
   )
 
 pdf("figures/sig_DEGs.pdf", width = 14)
-a | b
+print(a | b)
 dev.off()
 
