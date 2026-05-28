@@ -9,7 +9,6 @@ cd MYC_NMD
 Open R and restore the environment (first time only):
 
 install.packages("renv")
-renv::restore()
 
 Run the script:
 
