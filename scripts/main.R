@@ -11,4 +11,4 @@ if(any(!installed)) {
 
 lapply(packages, library, character.only = TRUE)
 
-source("sig_DEGs.R")
+source("scripts/sig_DEGs.R")
