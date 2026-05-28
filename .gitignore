@@ -10,3 +10,7 @@
 *.tmp
 
 .Rproj.user/
+
+renv/library/
+renv/staging/
+
