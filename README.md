@@ -2,14 +2,14 @@
 
 Clone the repository:
 
-git clone https://github.com/me37uday/MYC_NMD.git
-cd MYC_NMD
+- Open terminal
+- Run "git clone https://github.com/me37uday/MYC_NMD.git"
+- "cd MYC_NMD"
 
-Open R and run the following script:
+Open R by typing R on the same terminal and run the following script:
 
-install.packages("renv")
-source("scripts/main.R")
-
+- install.packages("renv")
+- source("scripts/main.R")
 
 ## 📌 Output
 
